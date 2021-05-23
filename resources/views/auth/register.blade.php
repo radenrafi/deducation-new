@@ -36,7 +36,7 @@
                                         <p class="mb-4">Create to your account</p>
                                     </div>
 
-                                    <form method="POST" action="{{ route('register') }} class="register">
+                                    <form method="POST" action="{{ route('register') }}" class="register">
                                         @csrf
 
                                         <div class="form-group">
