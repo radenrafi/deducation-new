@@ -1,0 +1,49 @@
+@import url("https://fonts.googleapis.com/css2?family=Encode+Sans:wght@400;500;600;700&family=Fredericka+the+Great&family=Secular+One&display=swap");
+.custom-sidebar {
+  background-color: #F8DD4F;
+}
+
+.custom-sidebar .sidebar-heading {
+  color: #5E5050;
+}
+
+.custom-sidebar a .sidebar-brand-icon {
+  color: #5E5050;
+}
+
+.custom-sidebar a .sidebar-brand-text {
+  color: #5E5050;
+}
+
+.custom-sidebar li a svg {
+  color: #5E5050;
+}
+
+.custom-sidebar li a span {
+  color: #5E5050;
+}
+
+.custom-card {
+  width: 16rem;
+  margin-bottom: 1.5em;
+  border: none;
+  box-shadow: 0px 4px 23px rgba(0, 0, 0, 0.25);
+}
+
+.custom-card .card-img-top {
+  height: 10rem;
+}
+
+.custom-card .card-body .card-title {
+  font-size: 1em;
+}
+
+.custom-card .card-body .card-text {
+  font-size: .8em;
+}
+
+.custom-card .custom-btn {
+  background-color: #58B4C8;
+  color: white;
+}
+/*# sourceMappingURL=donasi.css.map */
